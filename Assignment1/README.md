@@ -15,6 +15,11 @@
 
 Flowkey is music learning website that provides piano lessons to indivudals ranging from novice to advanced. 
 
+**Background:** yeah
+
+
+
+**Evaluation:**
 
 | <div style="width:290px"> **Heuristic & Description** </div> | <div style="width:290px"> **Evaluation** </div>| <div style="width:290px"> **Improvement Reccomendations** </div>|<div style="width:150px"> **Severity Rating** </div>|
 | --------------------------------------- | ------------------------------------- |------------------------------------- |------------------------------------- |
@@ -31,7 +36,14 @@ Flowkey is music learning website that provides piano lessons to indivudals rang
 
 <br >
 
+## GuitarTricks
 
+**Background:** yeah
+
+
+
+**Evaluation:**
+<br >
 | <div style="width:290px"> **Heuristic & Description** </div> | <div style="width:290px"> **Evaluation** </div>| <div style="width:290px"> **Improvement Reccomendations** </div>|<div style="width:150px"> **Severity Rating** </div>|
 | --------------------------------------- | ------------------------------------- |------------------------------------- |------------------------------------- |
 | **1. Visibility of System Status:** <br /> The website/app clearly communicates the system's status to the user and presents feedback to user within reasonable of actions they are currently doing. | eval:  | imrove rec | rating |
