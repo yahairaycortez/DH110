@@ -44,3 +44,4 @@ Flowkey is music learning website that provides piano lessons to indivudals rang
 | **8. Aesthetic and Minimalist Design:** <br /> The website/app only contains needed and relevant information. | eval:  | imrove rec | rating |
 | **9. Help Users Recognize, Diagnose, and Recover from Errors:** <br /> The website/app presents user with clear error messages, indicating the error and providing a solution. | eval:  | imrove rec | rating |
 | **10. Help and Documentation:** <br /> The website/app provides understandable and easily accessible documentation for understanding how to complete the task at hand, if needed. | eval:  | imrove rec | rating |
+
