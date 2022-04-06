@@ -6,3 +6,4 @@
 | <div style="width:280px"> **Heuristic & Description** </div> | <div style="width:280px"> **Evaluation** </div>| <div style="width:280px"> **Evaluation** </div>|
 | --------------------------------------- | ------------------------------------- |
 | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
+yeah
