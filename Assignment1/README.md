@@ -40,7 +40,7 @@ Flowkey is music learning website that provides piano lessons to indivudals rang
 
 **Background:** yeah
 
-	(assets/images/GuitarTricks.png)
+<img scr="GuitarTricks.png">
 
 **Evaluation:**
 <br >
