@@ -6,20 +6,18 @@
 - those of older generations shoudl be allowed to learn music, and such services should be catered or redesigned to fit the needs of the group
 - include the sites you referenced for the heristics eval and the severity ratings  
 
-<br > 
-<br > 
+<br/> 
+ 
 
 
-## Flowkey 
+## Flowkey <br/>
 
+**FlowKey** is music learning website that provides piano lessons to indivudals ranging from novice to advanced. <br/>
 
-Flowkey is music learning website that provides piano lessons to indivudals ranging from novice to advanced. 
+<img src="FlowKey.png"> <br/><br/>
 
-**Background:** yeah
+**Evaluation:** <br/> <br/>
 
-
-
-**Evaluation:**
 
 | <div style="width:290px"> **Heuristic & Description** </div> | <div style="width:290px"> **Evaluation** </div>| <div style="width:290px"> **Improvement Reccomendations** </div>|<div style="width:150px"> **Severity Rating** </div>|
 | --------------------------------------- | ------------------------------------- |------------------------------------- |------------------------------------- |
@@ -32,18 +30,18 @@ Flowkey is music learning website that provides piano lessons to indivudals rang
 | **7. Flexibility and Efficiency of Use:** <br /> The website/app is customizable such that the functions can cater to beginners and experts. | eval:  | imrove rec | rating |
 | **8. Aesthetic and Minimalist Design:** <br /> The website/app only contains needed and relevant information. | eval:  | imrove rec | rating |
 | **9. Help Users Recognize, Diagnose, and Recover from Errors:** <br /> The website/app presents user with clear error messages, indicating the error and providing a solution. | eval:  | imrove rec | rating |
-| **10. Help and Documentation:** <br /> The website/app provides understandable and easily accessible documentation for understanding how to complete the task at hand, if needed. | eval:  | imrove rec | rating |
+| **10. Help and Documentation:** <br /> The website/app provides understandable and easily accessible documentation for understanding how to complete the task at hand, if needed. | eval:  | imrove rec | rating |<br/><br/><br/><br/>
 
-<br >
 
-## GuitarTricks
 
-**Background:** yeah
+## GuitarTricks <br/>
 
-<img scr="GuitarTricks.png">
+**GuitarTricks:** is an online music learning site that offers <br/>
 
-**Evaluation:**
-<br >
+<img src= "GuitarTricks.png"> <br/><br/>
+
+**Evaluation:** <br/><br/>
+
 | <div style="width:290px"> **Heuristic & Description** </div> | <div style="width:290px"> **Evaluation** </div>| <div style="width:290px"> **Improvement Reccomendations** </div>|<div style="width:150px"> **Severity Rating** </div>|
 | --------------------------------------- | ------------------------------------- |------------------------------------- |------------------------------------- |
 | **1. Visibility of System Status:** <br /> The website/app clearly communicates the system's status to the user and presents feedback to user within reasonable of actions they are currently doing. | eval:  | imrove rec | rating |
@@ -55,5 +53,5 @@ Flowkey is music learning website that provides piano lessons to indivudals rang
 | **7. Flexibility and Efficiency of Use:** <br /> The website/app is customizable such that the functions can cater to beginners and experts. | eval:  | imrove rec | rating |
 | **8. Aesthetic and Minimalist Design:** <br /> The website/app only contains needed and relevant information. | eval:  | imrove rec | rating |
 | **9. Help Users Recognize, Diagnose, and Recover from Errors:** <br /> The website/app presents user with clear error messages, indicating the error and providing a solution. | eval:  | imrove rec | rating |
-| **10. Help and Documentation:** <br /> The website/app provides understandable and easily accessible documentation for understanding how to complete the task at hand, if needed. | eval:  | imrove rec | rating |
+| **10. Help and Documentation:** <br /> The website/app provides understandable and easily accessible documentation for understanding how to complete the task at hand, if needed. | eval:  | imrove rec | rating | <br/><br/><br/><br/>
 
