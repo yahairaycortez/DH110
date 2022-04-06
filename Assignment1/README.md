@@ -7,4 +7,4 @@
 | --------------------------------------- | ------------------------------------- |------------------------------------- |------------------------------------- |
 | **1. Visibility of System Status:** <br /> The website clearly informs the user about its current status  | eval:  | imrove rec | rating |
 | **2. Match Between System and the Real World:** <br /> The website uses language that is familiar to the user and presents information in a way that is analogous to the real world | eval:  | imrove rec | rating |
-| **3. User Control and Freedom** <br /> The website gives users a way to easily undo an unwanted action | eval:  | imrove rec | rating |
+| **3. User Control and Freedom** <br /> The website gives users a way to easily undo an unwanted action | eval: The website gives users a way to easily undo an unwanted action | imrove rec | rating |
