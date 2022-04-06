@@ -9,9 +9,9 @@ Online music learning services provides better access to those who seek to learn
 The following evaluations are based using <a href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">10 Usability Heuristics for User Interface Design</a> and <a href="https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/" target="_blank"> Severity Ratings for Usability Problems</a>.<br/>
 
 
-## Flowkey <br/>
+## Flowkey <br/> 
 
-**FlowKey** is music learning website that provides piano lessons to indivudals ranging from novice to advanced. Users are able to pick which piano lessons to take - entire modules or individual lessons. Users are also able to learn songs from a wide range of genres from their large music library. The service allows users to follow along with videos and prompts users to either connect their piano to the computer or listens to the user's piano using the microphone to test the user on their progress throuhgout the lesson.<br/>
+**FlowKey** (<a href="https://www.flowkey.com/en" target="_blank"> link to site</a>) is a music learning website that provides piano lessons to indivudals ranging from novice to advanced. Users are able to pick which piano lessons to take - entire modules or individual lessons. Users are also able to learn songs from a wide range of genres from their large music library. The service allows users to follow along with videos and prompts users to either connect their piano to the computer or listens to the user's piano using the microphone to test the user on their progress throuhgout the lesson.<br/>
 
 <img src="FlowKey.png"> <br/><br/>
 
@@ -35,7 +35,7 @@ The following evaluations are based using <a href="https://www.nngroup.com/artic
 
 ## GuitarTricks <br/>
 
-**GuitarTricks:** is an online music learning site that offers guitar learning video lessons for novice to advanced users. Their wide range of lessons allows users to choose certain modules specific instructors, modules based on playing level, modules based on style of guitar, and/or learn songs of their choice on guitar.<br/>
+**GuitarTricks:** (<a href="https://www.guitartricks.com/home.php" target="_blank"> link to site</a>) is an online music learning site that offers guitar learning video lessons for novice to advanced users. Their wide range of lessons allows users to choose certain modules specific instructors, modules based on playing level, modules based on style of guitar, and/or learn songs of their choice on guitar.<br/>
 
 <img src= "GuitarTricks.png"> <br/><br/>
 
