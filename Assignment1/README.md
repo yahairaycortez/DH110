@@ -1,18 +1,17 @@
-# Assignment 1 - Heuristic Evaluation : Yahaira Cortez, DH110
+# Assignment 1: Heuristic Evaluation | Yahaira Cortez - DH110
 
-## Tentative Title: --
+## Tentative Title: YouTune
 
-- music learning, especially during a time like COvid-19 where many found themselves with moer time on their hands. 
-- those of older generations shoudl be allowed to learn music, and such services should be catered or redesigned to fit the needs of the group
-- include the sites you referenced for the heristics eval and the severity ratings  
+It is no surprise at any age or stage in life, one might feel the need to learn music, especially in learning a musical instrument. Whether it is a sense of nostalogia or simply a new curisoity, learning a musical insturment is a common hobby, and has been for decades. As someone who has grown up learning insturments, however, I can testify to the difficulty in learning an instrument, moreso when without access to in-person instructors. Especially during times like today, in-person instructors may be not always be an viable option, which makes online music learning services/app even more crucial. 
 
-<br/> 
+Online music learning services provides better access to those who seek to learn a musical instrument, however, the accesibility may be hindered by how the techonology of the service is utilized. With my UX project, I want to make online music learning serivces, specifically those teaching musical instruments, easy to navigate without hindering the quality of musical teaching. I want my project to especially take into account older audiences, such as middle-aged men, and redesign the interface such that the majority of those within the group are better able to utilize the music learning service.<br/> 
  
+The following evaluations are based using <a href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">10 Usability Heuristics for User Interface Design</a> and <a href="https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/" target="_blank"> Severity Ratings for Usability Problems</a>.<br/>
 
 
 ## Flowkey <br/>
 
-**FlowKey** is music learning website that provides piano lessons to indivudals ranging from novice to advanced. <br/>
+**FlowKey** is music learning website that provides piano lessons to indivudals ranging from novice to advanced. Users are able to pick which piano lessons to take - entire modules or individual lessons. Users are also able to learn songs from a wide range of genres from their large music library.  <br/>
 
 <img src="FlowKey.png"> <br/><br/>
 
