@@ -11,7 +11,7 @@ The following evaluations are based using <a href="https://www.nngroup.com/artic
 
 ## Flowkey <br/>
 
-**FlowKey** is music learning website that provides piano lessons to indivudals ranging from novice to advanced. Users are able to pick which piano lessons to take - entire modules or individual lessons. Users are also able to learn songs from a wide range of genres from their large music library.  <br/>
+**FlowKey** is music learning website that provides piano lessons to indivudals ranging from novice to advanced. Users are able to pick which piano lessons to take - entire modules or individual lessons. Users are also able to learn songs from a wide range of genres from their large music library. The service allows users to follow along with videos and prompts users to either connect their piano to the computer or listens to the user's piano using the microphone to test the user on their progress throuhgout the lesson.<br/>
 
 <img src="FlowKey.png"> <br/><br/>
 
@@ -35,11 +35,11 @@ The following evaluations are based using <a href="https://www.nngroup.com/artic
 
 ## GuitarTricks <br/>
 
-**GuitarTricks:** is an online music learning site that offers <br/>
+**GuitarTricks:** is an online music learning site that offers guitar learning video lessons for novice to advanced users. Their wide range of lessons allows users to choose certain modules specific instructors, modules based on playing level, modules based on style of guitar, and/or learn songs of their choice on guitar.<br/>
 
 <img src= "GuitarTricks.png"> <br/><br/>
 
-**Evaluation:** <br/><br/>
+**Evaluation:** Overall the site offers a wide range of quality lessons, however, can be difficult to navigate as the site is overloaded with information. The site can be espeically be overwhelming and difficult to navigate to those who may not be as experienced with technology. It appears each page is overloaded with information and every new page presents even more information. The actual aesthetic of the site also makes it a bit difficult to navigate, such as lack of contrasting colors and it use of older images. <br/><br/>
 
 | <div style="width:290px"> **Heuristic & Description** </div> | <div style="width:290px"> **Evaluation** </div>| <div style="width:290px"> **Improvement Reccomendations** </div>|<div style="width:150px"> **Severity Rating** </div>|
 | --------------------------------------- | ------------------------------------- |------------------------------------- |------------------------------------- |
