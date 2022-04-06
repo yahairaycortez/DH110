@@ -15,7 +15,7 @@ The following evaluations are based using <a href="https://www.nngroup.com/artic
 
 <img src="FlowKey.png"> <br/><br/>
 
-**Evaluation:** The  while it is not overloaded with information, the lack of guidance can make it difficult for those who may not be as experienced with technology. <br/> <br/>
+**Evaluation:** Overall the webstie is simple and easy to naviagte, however, might be too simple for inexperienced users. The lack of guidance can make it difficult for those who may not be as experienced with technology. The sizing of the text may also hinder the ability of users who have difficulty seeing. <br/> <br/>
 
 
 | <div style="width:290px"> **Heuristic & Description** </div> | <div style="width:290px"> **Evaluation** </div>| <div style="width:290px"> **Improvement Reccomendations** </div>|<div style="width:150px"> **Severity Rating** </div>|
