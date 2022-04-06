@@ -2,7 +2,7 @@
 
 ## Tentative Title: YouTune
 
-It is no surprise at any age or stage in life, one might feel the need to learn music, especially in learning a musical instrument. Whether it is a sense of nostalogia or simply a new curisoity, learning a musical insturment is a common hobby, and has been for decades. As someone who has grown up learning insturments, however, I can testify to the difficulty in learning an instrument, moreso when without access to in-person instructors. Especially during times like today, in-person instructors may be not always be an viable option, which makes online music learning services/app even more crucial. 
+It is no surprise at any age or stage in life, one might feel the need to learn music, especially learning a musical instrument. Whether it is a sense of nostalgia or simply a new curisoity, learning a musical insturment is a common hobby, and has been for decades. As someone who has grown up learning insturments, however, I can testify to the difficulty in learning an instrument, moreso when without access to in-person instructors. Especially during times like today, in-person instructors may be not always be an viable option, which makes online music learning services/app even more crucial. 
 
 Online music learning services provides better access to those who seek to learn a musical instrument, however, the accesibility may be hindered by how the techonology of the service is utilized. With my UX project, I want to make online music learning serivces, specifically those teaching musical instruments, easy to navigate without hindering the quality of musical teaching. I want my project to especially take into account older audiences, such as middle-aged men, and redesign the interface such that the majority of those within the group are better able to utilize the music learning service.<br/> 
  
@@ -15,7 +15,7 @@ The following evaluations are based using <a href="https://www.nngroup.com/artic
 
 <img src="FlowKey.png"> <br/><br/>
 
-**Evaluation:** <br/> <br/>
+**Evaluation:** The  while it is not overloaded with information, the lack of guidance can make it difficult for those who may not be as experienced with technology. <br/> <br/>
 
 
 | <div style="width:290px"> **Heuristic & Description** </div> | <div style="width:290px"> **Evaluation** </div>| <div style="width:290px"> **Improvement Reccomendations** </div>|<div style="width:150px"> **Severity Rating** </div>|
@@ -39,7 +39,7 @@ The following evaluations are based using <a href="https://www.nngroup.com/artic
 
 <img src= "GuitarTricks.png"> <br/><br/>
 
-**Evaluation:** Overall the site offers a wide range of quality lessons, however, can be difficult to navigate as the site is overloaded with information. The site can be espeically be overwhelming and difficult to navigate to those who may not be as experienced with technology. It appears each page is overloaded with information and every new page presents even more information. The actual aesthetic of the site also makes it a bit difficult to navigate, such as lack of contrasting colors and it use of older images. <br/><br/>
+**Evaluation:** Overall the site is difficult to navigate as the site is overloaded with information. The site can be espeically be overwhelming and difficult to navigate to those who may not be as experienced with technology. It appears each page is overloaded with information and every new page presents even more information. The actual aesthetic of the site also makes it a bit difficult to navigate, such as lack of contrasting colors and it use of older images. Difficult to differentiate between <br/><br/>
 
 | <div style="width:290px"> **Heuristic & Description** </div> | <div style="width:290px"> **Evaluation** </div>| <div style="width:290px"> **Improvement Reccomendations** </div>|<div style="width:150px"> **Severity Rating** </div>|
 | --------------------------------------- | ------------------------------------- |------------------------------------- |------------------------------------- |
