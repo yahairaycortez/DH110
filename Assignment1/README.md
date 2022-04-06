@@ -1,6 +1,20 @@
 # Assignment 1 - Heuristic Evaluation : Yahaira Cortez, DH110
 
-## Tentative Title: 
+## Tentative Title: --
+
+- music learning, especially during a time like COvid-19 where many found themselves with moer time on their hands. 
+- those of older generations shoudl be allowed to learn music, and such services should be catered or redesigned to fit the needs of the group
+- include the sites you referenced for the heristics eval and the severity ratings  
+
+<br > 
+<br > 
+
+
+## Flowkey 
+
+
+Flowkey is music learning website that provides piano lessons to indivudals ranging from novice to advanced. 
+
 
 | <div style="width:290px"> **Heuristic & Description** </div> | <div style="width:290px"> **Evaluation** </div>| <div style="width:290px"> **Improvement Reccomendations** </div>|<div style="width:150px"> **Severity Rating** </div>|
 | --------------------------------------- | ------------------------------------- |------------------------------------- |------------------------------------- |
