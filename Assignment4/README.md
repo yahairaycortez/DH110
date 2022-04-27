@@ -16,4 +16,17 @@ UX StoryTelling allows the designer to "get insight into users, build empathy an
 #### Raul's Empathy Map
 <img src="images/raul-map.png" width=600> <br/> <br/>
 
-### &#128506;&#65039; User Scenarios + Journey Maps
+### &#128506;&#65039; User Scenarios + Journey Maps <br>
+#### Kenny's Scenario + Journey Map <br>
+##### <i>Why</i> Kenny is Using the Product 
+> Hello
+##### <i>How</i> Kenny is Using the Product
+> Hello <br>
+#### Raul's Scenario + Journey Map <br>
+##### <i>Why</i> Raul is Using the Product 
+> Hello
+##### <i>How</i> Raul is Using the Product
+> Hello <br>
+
+<br><br>
+### Reflection
