@@ -6,4 +6,9 @@ UX StoryTelling allows the designer to "get insight into users, build empathy an
  
 
 
-### Personas + Empathy Maps 
+### &#128100;	&#128506;&#65039; Personas + Empathy Maps 
+#### 	Persona 1 - Kenny Judson 
+
+#### Kenny's Empathy Map
+#### Persona 2 - Raul Maciel
+#### Raul's Empathy Map
