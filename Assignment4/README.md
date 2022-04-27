@@ -31,8 +31,7 @@ UX StoryTelling allows the designer to "get insight into users, build empathy an
 ##### <i>How</i> Raul is Using the Product
 > With the help of his daughters, Raul is brought to the GuitarTricks site, where he plans to learn the basics of guitar. Since Raul is a beginner, after logging into the site, Raul will click on the beginner lessons button. Raul is also unsure of where to begin his guitar journey, so he will then click on lesson 1 of Guitar Fundamentals option to begin learning the basics of guitar. When he is done learning for the day, Raul will click on the progress tab on the left side of the page to ensure he is on the right path of learning. 
 <br>
-<img src="images/raul-journey.png" width=800> <br/>
+<img src="images/raul-journey.png" width=800> <br>
 
-<br>
 ### Reflection
 I found it very interesting and even fun to put myself in the shoes of the users. It defintely influenced my perspective on the design of the product and allowed me to better understand how users intend to use the product and what may draw them to the product. It is fascinating to consider the efficiency of the product through a more psychological level.  
