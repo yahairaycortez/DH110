@@ -19,6 +19,17 @@ The low-fidelity prototype supports the following tasks:
 
 ## Wireframes & Wireflow
 ### Task 1: Entering a Guitar Lesson
+<img src="images/Task1.png" width=800> <br> <br>
+
+### Task 2: Checking Lesson Progress
+#### Method 1
+<img src="images/Task2-Part1.png" width=800> <br> <br>
+#### Method 2
+<img src="images/Task2-Part2.png" width=800> <br> <br>
+
+### Task 3: Using Question Forum
+<img src="images/Task3.png" width=800> <br> <br>
+
 
 
 
