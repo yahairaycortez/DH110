@@ -60,7 +60,7 @@ User had most difficulties in Task 3. User used search bar but was unaware that 
 ## Reflection & Design Reccomendations
 Overall, it was an interesting experience seeing the user interact and navigate the prototype. Similar to prior stages of the project, I gained more insight into the user's behavior. Through the tasks I gained a better understanding as to how the user intends to navigate the site, and how the design at the moment may not support easy user navigation. This is due to the difficulties the user faces during the tasks. <br>
 
-I found it a bit difficult to create the wireflows as I did not have much prior experience. However, I did enjoy creating and designing the various wireframes for the prototype. <br><br>
+I found it a bit difficult to create the wireflows as I did not have much prior experience, especially in needing to ensure all possible options of the wireflow. However, I did enjoy creating and designing the various wireframes for the prototype. <br><br>
 
 Based on the user's participation in completing the tasks on the prototype I decided on more redesign possibilities:
 - Make Forum more accesible - button with 'Forum' label next to search bar, 'Forum' option on sidebar, or remove search bar and include 'Search" or 'Help' option on sidebar and have option open to forum with search bar on top. 
