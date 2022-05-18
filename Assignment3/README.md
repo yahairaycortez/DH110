@@ -1,6 +1,6 @@
-## DH110 Assignment 3 - Contextual Inquiry 
+# Assignment 03 - Contextual Inquiry 
 
-#### Yahaira Cortez // GuitarTricks // Music Learning + Guitar
+#### DH 110 | Yahaira Cortez <br><br>
 
 ## ☑ Step 1: Research Goal & Requirements 
 ### •  What is the main activity your project would support for the users?
