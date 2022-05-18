@@ -1,6 +1,6 @@
-# DH110 - Assignment 02 Usability Test
+# Assignment 02 - Usability Test
 
-## Yahaira Cortez
+#### DH 110 | Yahaira Cortez <br><br>
 
 ## Introduction - Initial Evaluation
 <b>GuitarTricks</b> is an online website for learning to play guitar. The website offers online video lessons for players ranging from beginner to advanced. Users are able to take lessons depending on their guitar skill level or learn specific songs of their interest on guitar. 
