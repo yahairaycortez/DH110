@@ -1,5 +1,6 @@
-# Assignment 1: Heuristic Evaluation 
-#### DH 110 | Yahaira Cortez <br><br>
+# Assignment 01: Heuristic Evaluation 
+ DH 110: User Experience Design <br>
+ Yahaira Cortez <br>
 
 ## Tentative Title: YouTune
 
