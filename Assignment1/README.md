@@ -1,4 +1,5 @@
-# Assignment 1: Heuristic Evaluation | Yahaira Cortez - DH110
+# Assignment 1: Heuristic Evaluation 
+#### DH 110 | Yahaira Cortez <br>
 
 ## Tentative Title: YouTune
 
