@@ -1,6 +1,6 @@
-# Assignment 03 - Contextual Inquiry 
-
-#### DH 110 | Yahaira Cortez <br><br>
+# Assignment 03 : Contextual Inquiry 
+ DH 110: User Experience Design <br>
+ Yahaira Cortez <br><br>
 
 ## ☑ Step 1: Research Goal & Requirements 
 ### •  What is the main activity your project would support for the users?
