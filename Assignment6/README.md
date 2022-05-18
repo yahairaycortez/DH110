@@ -11,6 +11,7 @@
 ## Interface
 
 ### Approach 
+I approached the design with an empahsis on modern interface design and consideration for the target audience, middle-aged males, musicians or those seeking to learn music. 
 
 ### WireFrames & WireFlow
 
