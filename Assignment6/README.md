@@ -47,6 +47,12 @@ Because most of the site's contents are buttons or video thumbnails, I decided o
 ## Color Iteration & Accesibility
 <img src="images/color.png"> <br>
 
-In exploring colors for the site's new design, I wanted to ensure the colors were accesible for our targeted audience, middle-aged males, and for those who may be visually impaired. I chose colors that contrasted well with eachother and were similar to the color scheme of the original site. I wanted the site to still have a pop of color while still maintaining it easy readablity and reducing any unncessary visual noise. <br>
+Because of the site's targeted audience, and our goal to appeal to middle-aged males, I wanted to ensure the site's colors were easily seen by those within the targeted group and those who may be visually impaired. I chose colors that contrasted well with eachother and were similar to the color scheme of the original site. I wanted the site to still have a pop of color while still maintaining it easy readablity and reducing any unncessary visual noise. <br>
 
-I also testing the acessibilty of the design colors by measuring the color contrast between the colors. 
+I also tested the acessibilty of the design colors by measuring the color contrast between the colors. <br>
+
+## Layout 
+<img src="images/layout.png"> <br>
+
+
+
