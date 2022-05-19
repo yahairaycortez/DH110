@@ -44,5 +44,9 @@ I knew when exploring the types of shapes to use within the interface I wanted t
 
 Because most of the site's contents are buttons or video thumbnails, I decided on a 40px roundness. Because we often associate buttons with more round edges, the shapes of the objects on the site not only contribute to the site's overall impression but also encourages users to press on the buttons, thus increasing user engagement. The 40px does well in softening the feel of the site, but is still sharp enough to maintain the slight professional tone of the site as some of guitar content is taught by well accomplished professionals. <br>
 
-## Color Iteration
+## Color Iteration & Accesibility
 <img src="images/color.png"> <br>
+
+In exploring colors for the site's new design, I wanted to ensure the colors were accesible for our targeted audience, middle-aged males, and for those who may be visually impaired. I chose colors that contrasted well with eachother and were similar to the color scheme of the original site. I wanted the site to still have a pop of color while still maintaining it easy readablity and reducing any unncessary visual noise. <br>
+
+I also testing the acessibilty of the design colors by measuring the color contrast between the colors. 
