@@ -58,7 +58,12 @@ I also tested the acessibilty of the design colors by measuring the color contra
 I created my high-fidelity design using a 10px grid. The grid helped ensure the cleanliness and uniformity of the site. For example, With the grid I ensured all button labels were always witin 3 grid spaces below the button. <br>
 
 ## Style Design 
-<img src="images/style.png"> <br>
+The following is a summary of the finalized style design. 
+<img src="images/style1.png"> <br>
+<br> 
+
+### Impression Test
+For the impression test, I used the same participant from the usability test. 
 
 
 
