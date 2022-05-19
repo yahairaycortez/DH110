@@ -52,7 +52,13 @@ Because of the site's targeted audience, and our goal to appeal to middle-aged m
 I also tested the acessibilty of the design colors by measuring the color contrast between the colors. <br>
 
 ## Layout 
-<img src="images/layout.png"> <br>
+<img src="images/grid1.png"> <br>
+<img src="images/grid2.png"> <br>
+
+I created my high-fidelity design using a 10px grid. The grid helped ensure the cleanliness and uniformity of the site. For example, With the grid I ensured all button labels were always witin 3 grid spaces below the button. <br>
+
+## Style Design 
+<img src="images/style.png"> <br>
 
 
 
