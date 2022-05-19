@@ -23,6 +23,8 @@ I approached the design with an empahsis on modern interface design and consider
 I used Figma to draft and finalize the high-fidelity designs. Because the site is for often used on a computer, I based my frame dimensions for the design off the screen dimensions of the Macbook Pro "14. 
 
 ### WireFrames & WireFlow
+<a href="https://www.figma.com/file/3TI2Ngv9DapGHKVuJVa7Su/DH110---A06?node-id=10%3A271" target="_blank">Wireframe & Wireflow Design File</a>
 
 
 ### Design Interations 
+Here is the entire view of the high-fidelity design. 
