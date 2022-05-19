@@ -40,3 +40,9 @@ I decided on Rubik because, in comparison to the others I explored, I felt it di
 
 ## Shape Iteration
 <img src="images/shape.png"> <br>
+I knew when exploring the types of shapes to use within the interface I wanted to focus on more round shapes. More round shapes do well in creating a more modern feel to the site, versus sharp straight lines that can decrease engagment and again take away from the fun and engaging nature of the site's content. <br>
+
+Because most of the site's contents are buttons or video thumbnails, I decided on a 40px roundness. Because we often associate buttons with more round edges, the shapes of the objects on the site not only contribute to the site's overall impression but also encourages users to press on the buttons, thus increasing user engagement. The 40px does well in softening the feel of the site, but is still sharp enough to maintain the slight professional tone of the site as some of guitar content is taught by well accomplished professionals. <br>
+
+## Color Iteration
+<img src="images/color.png"> <br>
