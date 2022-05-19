@@ -27,4 +27,9 @@ I used Figma to draft and finalize the high-fidelity designs. Because the site i
 
 
 ### Design Interations 
-Here is the entire view of the high-fidelity design. 
+Below is the entire view of the high-fidelity design. <a href="https://www.figma.com/file/3TI2Ngv9DapGHKVuJVa7Su/DH110---A06?node-id=0%3A1" target="_blank">Here</a> you can access the full view of the high-fidelity design and design element interations. <br>
+<img src="images/fullview.png"> <br> 
+<br>
+In finalizing the high-fidelity design above, I iterated through different types of typography, colors, and shapes to test and evaluate the types of elements to use within the design. <br>
+
+## Typography Iteration
