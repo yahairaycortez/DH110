@@ -63,7 +63,14 @@ The following is a summary of the finalized style design.
 <br> 
 
 ### Impression Test
-For the impression test, I used the same participant from the usability test. 
+For the impression test, I used the same participant from the usability test as their experience with the original site could allow them to better determine whether the redesign has improved and better meets the user's needs, especially the concerns they mentioned during their test. <br>
 
+I provided the participant with the style guide as well as a link to an interactive prototype of the site. In testing the new design the participant made a couple key points:
+- Will there be more content material or will it typically only be filled with small amounts of content, such only the lesson buttons? 
+- Will more colorful elements be added? The site appears mdoern and clean but is maybe lacking a bit of color or other elements?
+- The actual usability of the site definitely improved and was much easier to navigate.
+- I had a couple issues orginally with the question forum so I am glad to see how it was redesigned to be more easily usable 
+- It is pretty consistent between pages but sort of differs once you start entering the lesson, is there a way to make it flow more easily? 
+- The navigation bar on the side is pretty useful, espeically since it consistently is on the side, regardless of the page you're on. <br>
 
-
+Summary: The participant was mostly satisfied with the new design interface of the site and felt only a couple components needed to be adjusted to better its usability. The participant especially appreciated the look of the site as the new interface online allowed easy navigation. They also commented that the site appeared more user-friendly for all groups of populations, especially for those who may have as much experience with technology. 
