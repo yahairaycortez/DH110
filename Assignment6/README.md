@@ -33,3 +33,9 @@ Below is the entire view of the high-fidelity design. <a href="https://www.figma
 In finalizing the high-fidelity design above, I iterated through different types of typography, colors, and shapes to test and evaluate the types of elements to use within the design. <br>
 
 ## Typography Iteration
+<img src="images/typography.png"> <br>
+My exploration of typography was based on whether they fit within the modern interface image and if they were more playful yet professional. <br>
+
+I decided on Rubik because, in comparison to the others I explored, I felt it did well in moderninizng the feel of the interface while doing well in combining the playful or lighthearted elements with still a sharp, professional edge to it. The others I tried were either too round and seemed almost too playful or more geared towards a younger audience, while others felt more serious which took away from the fun and engaging nature of guitar learning content. <br>
+
+## Shape Iteration
