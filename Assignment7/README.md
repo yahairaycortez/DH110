@@ -15,5 +15,22 @@
  - Access a lesson
  - Check their Progress
  - Access and Search through Question Forum
+
+
+## WireFlows
+- Task 1
+- Task 2
+- Task 3
+
+## High-Fidelity Prototype
+- link to prototype
+- screenrecord of cognitive walkthrough for each task
+
+
+## Evaluation
+- screenshots of old and new prototype
+
+
+
  
  
