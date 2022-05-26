@@ -24,7 +24,7 @@
 
 ## High-Fidelity Prototype
 - Link to Prototype: <a href="https://www.figma.com/proto/3TI2Ngv9DapGHKVuJVa7Su/DH110---A06?node-id=67%3A1358&scaling=scale-down&page-id=0%3A1&starting-point-node-id=67%3A1358&show-proto-sidebar=1" target="_blank">High-Fidelity Prototype</a>
- - Links to Recordings of Cognitive Walkthrough for each Task:
+ - Links to Recordings of Cognitive Walkthroughs for each Task:
     - <a href="https://drive.google.com/file/d/1LV_ujl_72ndYvVGmsh71PJccPnb7YVC5/view?usp=sharing" target="_blank"> Access a Lesson</a>
     - <a href="https://drive.google.com/file/d/1GoxptRw-swKPpgVsoc5lUmE5JybrXyzU/view?usp=sharing"> Check Lesson Progress </a>
     - <a href="https://drive.google.com/file/d/1SroQ2HVlB1pv64k67V8yCAdasApg767Z/view?usp=sharing"> Access Question Forum </a>
