@@ -34,7 +34,16 @@
 ## Evaluation
 After receiving user feedback from the inital high-fidelity prototype, the interface was updated to better meet the needs and concerns that were mentioned. <br>
 The following are examples of changes made according to the user feedback:
-- > "You can make the space more reasonable by proportional to the screen dimension." (Suggested layout with 12x12, 20px gutter)
+- <i> "You can make the space more reasonable by proportional to the screen dimension." (Suggested layout with 12x12, 20px gutter)</i> <br><br> 
+<img src="images/Spacing_Change.png" width=800> <br>
+  - Interface was changed to better fit within the 12x12, 20px gutter layout <br><br> 
+- <i> "Maybe better to make the images darker and white text" 
+-  "Overall, the drop-shadow effect of the text can make the website look old-style."
+-  "And for the realistic situation, have specific lesson names" </i> <br><br> 
+<img src="images/Text_Image_Change.png" width=800> <br>
+  - Text: was changed to appear more modern, used more realistic lesson titles, and was changed to lighter color when on top of image.
+  - Images: were darkened to better within the modern-style of the interface, and to create greater contrast with text. 
+ 
  
 
 
