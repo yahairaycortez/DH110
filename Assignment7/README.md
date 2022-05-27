@@ -32,7 +32,11 @@
 
 
 ## Evaluation
-- screenshots of old and new prototype
+After receiving user feedback from the inital high-fidelity prototype, the interface was updated to better meet the needs and concerns that were mentioned. <br>
+The following are examples of changes made according to the user feedback:
+- > "You can make the space more reasonable by proportional to the screen dimension." (Suggested layout with 12x12, 20px gutter)
+ 
+
 
 
 
