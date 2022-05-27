@@ -6,9 +6,9 @@
  ## Project Brief & Key Tasks
  
  ### Purpose
- - project <br>
+The purpose of the project is to improve the Guitar Tricks site to enhance site navigation and increase user accesiblity and engagement, while considering the site's mission and the needs of their audience. The Guitar Tricks site is an online music learning resource for learning guitar, and appeals to players of all levels and all ages. With the redesign, the site should be able to better accomodate to those who fall within the music learning category, regardless of age. <br>
  
- The purpose of the high-fidelity prototype is to test* the design and interactive elements of the interface. 
+The purpose of the high-fidelity prototype is to test the design and interactive elements of the interface. 
  
  ### Key Tasks
  In using the high-fidelity prototype the user should be able to accomplish the same tasks as done in the Usability Test:
