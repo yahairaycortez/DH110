@@ -13,14 +13,15 @@
  ### Key Tasks
  In using the high-fidelity prototype the user should be able to accomplish the same tasks as done in the Usability Test:
  - Access a lesson
- - Check their Progress
+ - Check Lesson Progress
  - Access and Search through Question Forum
 
 
 ## WireFlows
-- Task 1
-- Task 2
-- Task 3
+
+- <b>Task #1 </b>: Access a Lesson <br><br> <img src="images/Access_Lesson.png" width=800> <br><br><br>
+- <b> Task #2 </b>: Check Lesson Progress <br> <br><img src="images/Lesson_Progress.png" width=800> <br><br><br>
+- <b> Task #3 </b>: Access and Search through Question Forum <br><br> <img src="images/Question_Forum.png" width=800> <br><br><br>
 
 ## High-Fidelity Prototype
 - Link to Prototype: <a href="https://www.figma.com/proto/3TI2Ngv9DapGHKVuJVa7Su/DH110---A06?node-id=67%3A1358&scaling=scale-down&page-id=0%3A1&starting-point-node-id=67%3A1358&show-proto-sidebar=1" target="_blank">High-Fidelity Prototype</a>
