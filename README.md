@@ -88,19 +88,19 @@ I used Figma to draft and finalize the high-fidelity designs. Because the site i
 After receiving user feedback from the inital high-fidelity prototype, the interface was updated to better meet the needs and concerns that were mentioned. <br>
 The following are examples of changes made according to the user feedback:
 - <i> "You can make the space more reasonable by proportional to the screen dimension." (Suggested layout with 12x12, 20px gutter)</i> <br><br> 
-<img src="images/Spacing_Change.png" width=800> <br>
+<img src="Assignment7/images/Spacing_Change.png" width=800> <br>
   - Interface was changed to better fit within the 12x12, 20px gutter layout <br><br> 
 - <i> "Maybe better to make the images darker and white text" 
 -  "Overall, the drop-shadow effect of the text can make the website look old-style."
 -  "And for the realistic situation, have specific lesson names" </i> <br><br> 
-<img src="images/Text_Image_Change.png" width=800> <br>
+<img src="Assignment7/images/Text_Image_Change.png" width=800> <br>
   - Text: was changed to appear more modern, used more realistic lesson titles, and was changed to lighter color when on top of image.
   - Images: were darkened to better within the modern-style of the interface, and to create greater contrast with text. 
 <br> <br>
 
 ### High-Fidelity Prototype
 
-To bring my project to life, I created a high-fidelity prototype using Figma. Based on the feedback from the low-fidelity prototype and interface design, I was able to finalize the product design and create a working prototype. <br> <br>
+To bring my project to life, I created a high-fidelity prototype using Figma. Based on the feedback from the low-fidelity prototype, the interface design, and inital high-fidelity prototype, I was able to finalize the product design and create a working prototype. <br> <br>
 The purpose of the high-fidelity prototype is to test the design and interactive elements of the interface. <br> 
 In using the high-fidelity prototype the user should be able to accomplish the same tasks as done in the Usability Test:
  - Access a lesson
