@@ -37,21 +37,20 @@ From the two online music learning services, I found I wanted to create a design
 #### Read full Heuristic Evaluations <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment1" target="_blank"> here </a>. <br><br>
 
 ### Usability Testing 
+
+<img src="images/usabilitytesting.png" width= "300px" height="200px"> <br>
+
 After deciding to focus my UX project on the <a href="https://www.guitartricks.com/" target="_blank">GuitarTricks</a> site, I conducted a usability test to better understand the capabilities and design of the site. I had realized from the original heuristic evaluation that certain design violations were being made, however, I wanted to better understand the perspective a new user to the site and thus how such design violations may hinder a user's experience. <br>
 
 After conducting the Usability Test, I found the extent of the usability issues with the website. In general, I found the issues with the site to be a bit more severe than I had anticipated as I noticed the participant experienced more difficulties with the site. For example, the participant had trouble locating the question forum and finding the ability to exit lesson, which are necessary features to ensure easy and safe navigation of the site. Additionally, because the user was not particularly representative of the targeted population (21-year old male, highly familar with techonology), I find the participant's difficulties with the site may be worse for those who do fall within the targeted audience. (middle-aged males, variety in levels of technological familarity). <br>
 
-#### Testing Materials 
-<img src="images/usabilitytesting.png" width= "300px" height="200px"> <br>
-<b>UT Survey</b>: <a href="https://forms.gle/YARwtsbDFNsZduvU6" target="_blank">UT Survey</a><br>
-<b>UT Video</b>: <a href="https://www.dropbox.com/s/861w5hqxviyjiyn/DH110-A02-UsabilityTest%20.mp4?dl=0" target="_blank">UT Video</a><br>
-
 #### See full Usability Testing <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment2" target="_blank"> here </a>. <br><br>
 
 ### User Research 
-In order to best meet the needs of the intended audience of the website, it was necessary to conduct user research on users who are expected to utilize the site. A 24 year-old male, intermediate guitar player, offered to provide insight into their guitar learning process, which includes the resources/tools they used to initally learn guitar and to strengthen their current skillset. <br>
 
-<img src="images/userresearch.png" width= "350px" height="200px"> <br>
+<img src="images/userresearch.png" width= "350px" height="200px"> <br> <br>
+
+In order to best meet the needs of the intended audience of the website, it was necessary to conduct user research on users who are expected to utilize the site. A 24 year-old male, intermediate guitar player, offered to provide insight into their guitar learning process, which includes the resources/tools they used to initally learn guitar and to strengthen their current skillset. <br>
 
 Overall I felt the interview process did well in providing me with a better understanding of music learning, in general, and how many may approach the process of music learning. I felt I learned much more about the the mind and behavior of the user who is trying to learn guitar through the site. I particularly enjoyed the interview since it was almost as if I was able to enter the mind one who is learning guitar, understand how they came to learn guitar, and in discovering which music learning methods work best for them. I was fortunate in that my participant did especially well in describing every thought or process ongoing inside their mind during their music learning sessions. I enjoyed this portion of the research process and found such research will be greatly beneficial in creating improvements to the GuitarTricks site. <br>
 
