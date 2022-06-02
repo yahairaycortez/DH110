@@ -29,5 +29,7 @@ After conducting usability testing and research (mentioned below), I decided to 
 
 ## Competitor Analysis 
 ### Heuristic Evaluation
-To understand how other music learning sites presented and performed, specifically those that were intended to teach musical instruments, I conducted heuritisic analysis on two instrument learning sites: GuitarTricks.com and FlowKey.com.  
+To understand how other music learning sites presented and performed, specifically those that were intended to teach musical instruments, I conducted heuritisic analysis on two instrument learning sites: <a href="https://www.guitartricks.com/" target="_blank">GuitarTricks.com</a> and <a href="https://www.flowkey.com/en" target="_blank">FlowKey.com</a>. <br>
+
+
 
