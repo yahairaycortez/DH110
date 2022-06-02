@@ -111,6 +111,9 @@ In using the high-fidelity prototype the user should be able to accomplish the s
 
 #### See full High-Fidelity Prototype Documentation <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment7" target="_blank"> here </a>. <br><br>
 
+### Guitar101 Pitch
+
+### Conclusion
 
 
 
