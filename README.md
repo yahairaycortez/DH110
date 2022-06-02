@@ -30,7 +30,7 @@ After conducting usability testing and research (mentioned below), I decided to 
 ## Competitor Analysis 
 ### Heuristic Evaluation
 To understand how other music learning sites presented and performed, specifically those that were intended to teach musical instruments, I conducted heuritisic analysis on two instrument learning sites: <a href="https://www.guitartricks.com/" target="_blank">GuitarTricks.com</a> and <a href="https://www.flowkey.com/en" target="_blank">FlowKey.com</a>. <br> <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/guitartrickslogo.png" width= "100px" height="100px"> <img src="images/flowkeylogo.png" width= "100px" height="100px"> <br>
-I chose 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/guitartrickslogo.png" width= "100px" height="100px"> &nbsp; <img src="images/flowkeylogo.png" width= "100px" height="100px"> <br><br>
+I chose to evaluate the sites because of how they differed in their design interface and their prominence within the realm of online music learning. The herusitic evaluations on the sites were conducted according to  <a href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">10 Usability Heuristics for User Interface Design</a> and <a href="https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/" target="_blank"> Severity Ratings for Usability Problems</a>.<br/>
 
 
