@@ -112,6 +112,7 @@ In using the high-fidelity prototype the user should be able to accomplish the s
 #### See full High-Fidelity Prototype Documentation <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment7" target="_blank"> here </a>. <br><br>
 
 ### Guitar101 Pitch
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XfKSRiYsej8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><br>
 
 ### Conclusion
 I found the best way to truly learn about the UX Design process was to be apart of it. I have always been interested in UX Design but to an extent had no idea what the design process entailed. I'm sure many can agree that the process is full of feedback and prioritization for the user. For those reasons I would consider the design process to be exciting, yet quite demanding. I particulary enjoyed the interface design aspect of the process as it not only allowed for my creativity to flourish but it felt I had power in creating something that could be very benefical to others. <br>
