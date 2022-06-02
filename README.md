@@ -6,6 +6,9 @@ Yahaira Cortez
 
 ## Project Brief 
 
+
+<img src="images/GuitarPlaying1.png" width= "300px" height="200px"> <br> 
+
 ### Purpose
 Whether it is a sense of nostalgia or simply a new curiosity, learning a musical instrument is a common hobby, and has been for decades. With the creation of the online music learning services, music learning has become much more accessible. However, the accessibility of such services may be hindered by how the technology of the service is utilized. 
 
