@@ -34,11 +34,16 @@ To understand how other music learning sites presented and performed, specifical
 I chose to evaluate the sites because of how they differed in their design interface and their prominence within the realm of online music learning. The herusitic evaluations on the sites were conducted according to  <a href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">10 Usability Heuristics for User Interface Design</a> and <a href="https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/" target="_blank"> Severity Ratings for Usability Problems</a>.<br/><br>
 From the two online music learning services, I found I wanted to create a design that was a balance between the honorable qualities of each website - high quality lessons offered through a simple, modern interface. Both sites overall offered useful music learning tools, but certain aspects of the sites, such as interface design and variety in music lessons, were executed better between one or the other. Thus, I wanted an interface design that was inspired by the balance of the two sites, or a combination of the honorable qualities of each site. <br>
 
-#### Read full heuristic evaluations <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment1" target="_blank"> here </a>. <br><br>
+#### Read full Heuristic Evaluations <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment1" target="_blank"> here </a>. <br><br>
 
 ### Usability Testing 
-After deciding to focus my UX project on the <a href="https://www.guitartricks.com/" target="_blank">GuitarTricks</a> site, I conducted a usability test to better understand the capabilities and design of the site. <br>
+After deciding to focus my UX project on the <a href="https://www.guitartricks.com/" target="_blank">GuitarTricks</a> site, I conducted a usability test to better understand the capabilities and design of the site. I had realized from the original heuristic evaluation that certain design violations were being made, however, I wanted to better understand the perspective a new user to the site and thus how such design violations may hinder a user's experience. <br>
 
- <img src="images/usabilitytesting.png" width= "100px" height="100px"> 
+After conducting the Usability Test, I found the extent of the usability issues with the website. In general, I found the issues with the site to be a bit more severe than I had anticipated as I noticed the participant experienced more difficulties with the site. For example, the participant had trouble locating the question forum and finding the ability to exit lesson, which are necessary features to ensure easy and safe navigation of the site. Additionally, because the user was not particularly representative of the targeted population, I find the participant's difficulties with the site may be worse for those who do fall within the targeted audience. <br>
+
+#### Testing Materials 
+<img src="images/usabilitytesting.png" width= "300px" height="200px"> 
 <b>UT Survey</b>: <a href="https://forms.gle/YARwtsbDFNsZduvU6" target="_blank">UT Survey</a><br>
-<b>UT Video</b>: <a href="https://www.dropbox.com/s/861w5hqxviyjiyn/DH110-A02-UsabilityTest%20.mp4?dl=0" target="_blank">UT Video</a><br><br>
+<b>UT Video</b>: <a href="https://www.dropbox.com/s/861w5hqxviyjiyn/DH110-A02-UsabilityTest%20.mp4?dl=0" target="_blank">UT Video</a><br>
+
+#### See full Usability Testing <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment2" target="_blank"> here </a>. <br><br>
