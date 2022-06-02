@@ -39,6 +39,6 @@ From the two online music learning services, I found I wanted to create a design
 ### Usability Testing 
 After deciding to focus my UX project on the <a href="https://www.guitartricks.com/" target="_blank">GuitarTricks</a> site, I conducted a usability test to better understand the capabilities and design of the site. <br>
 
-
+ <img src="images/usabilitytesting.png" width= "100px" height="100px"> 
 <b>UT Survey</b>: <a href="https://forms.gle/YARwtsbDFNsZduvU6" target="_blank">UT Survey</a><br>
 <b>UT Video</b>: <a href="https://www.dropbox.com/s/861w5hqxviyjiyn/DH110-A02-UsabilityTest%20.mp4?dl=0" target="_blank">UT Video</a><br><br>
