@@ -57,6 +57,5 @@ Overall I felt the interview process did well in providing me with a better unde
 #### See full User Research <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment3" target="_blank"> here </a>. <br>
 
 ### UX StoryTelling
-
-
+<img src="Assignment4/images/raul-persona.png" width= "400px" height="200px"> &nbsp; <img src="Assignment4/images/raul-map.png" width= "300px" height="200px"> <br> <br>
 
