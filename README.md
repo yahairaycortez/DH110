@@ -20,12 +20,13 @@ I intend to enhance site navigation and increase user accessibility while ensuri
 <b>Through my UX project, I hope to design a music learning service that is easy to navigate, regardless of technological familiarity with websites, easy to search, and, most importantly, engaging for learners. The design of the website should coincide with the site's mission - accessible to all ages and players of all skill levels. </b> <br>
   
 After conducting usability testing and research (mentioned below), I decided to prioritze certain features of the site in the redesign:
-  - Minimizing Visual Noise
+  - <b> Minimizing Visual Noise
   - Modernizing Website Interface
-  - Key Tasks can be Easily Accomplished, Users can: 
+  - Key Tasks can be Easily Accomplished, Users can: </b>
     - Access Lessons
     - Access Lesson Progress
     - Question Forum/Search Bar can be accessed and utilized effectively <br><br>
 
 ## Competitor Analysis 
+
 
