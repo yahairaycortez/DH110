@@ -74,7 +74,7 @@ The low-fidelity protype will test the proposed navigation and interface element
 #### See full Low-Fidelity Prototype <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment5" target="_blank"> here </a>. <br><br>
 
 ### Interface Design
-<img src="Assignment6/images/style1.png" width= "350px" height="200px"> <br> 
+<img src="Assignment6/images/style1.png" width= "350px" height="250px"> <br> 
 
 The purpose of the interface design is to work towards finalizing the product design by converting low-fidelity designs to high-fidelity. The high-fidelity designs begin to consider the visual and interactive components of the product design. <br><br>
 I approached the design with an empahsis on modern interface design and consideration for the target audience, middle-aged males, musicians or those seeking to learn music. For the high-fidelity design, I drew inspiration from the original <a href="https://www.guitartricks.com/home.php" target="_blank">Guitar Tricks</a> site as well as from <a href="https://app.flowkey.com/songs" target="_blank">FlowKey</a>, another online music learning resource. <br>
