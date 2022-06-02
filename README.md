@@ -64,7 +64,7 @@ I found it very interesting and even fun to place myself in the shoes of the use
 #### See full Personas + Mind Maps <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment4" target="_blank"> here </a>. <br><br>
 
 ### Wireframing & Low-Fidelity Prototype
-<img src="Assignment5/images/Task1.png" width= "350px" height="200px"> <br> <br>
+<img src="Assignment5/images/Task1.png" width= "350px" height="200px"> <br>
 
 The purpose of the low-fidelity prototype is a method of testing the product design through outlining the flow and navigation of the product. Low-fidelity testing checks functionality rather than the visual appearance of the product. Having users test the low-fidelity protype also allows the designer to ensure the usability and efficency of the product without considering other visual elements of the product. <br> <br>
 The low-fidelity prototype will be based on the GuitarTricks website. Using prior user research, the site will be redesigned to better meet the needs of its intended users. The inital step being the low-fidelity protoype where the navigation/usability changes will be applied and tested. <br>
@@ -79,7 +79,10 @@ The low-fidelity protype will test the proposed navigation and interface element
 The purpose of the interface design is to work towards finalizing the product design by converting low-fidelity designs to high-fidelity. The high-fidelity designs begin to consider the visual and interactive components of the product design. <br><br>
 I approached the design with an empahsis on modern interface design and consideration for the target audience, middle-aged males, musicians or those seeking to learn music. For the high-fidelity design, I drew inspiration from the original Guitar Tricks site as well as from FlowKey, another online music learning resource.<br>
 
-I used Figma to draft and finalize the high-fidelity designs. Because the site is for often used on a computer, I based my frame dimensions for the design off the screen dimensions of the Macbook Pro "14.
+I used Figma to draft and finalize the high-fidelity designs. Because the site is for often used on a computer, I based my frame dimensions for the design off the screen dimensions of the Macbook Pro "14. <br> 
+
+<img src="Assignment6/images/color.png" width= "200px" height="100px"> &nbsp;  <img src="Assignment6/images/shape.png" width= "200px" height="100px"> <br> <br>
+
 
 
 
