@@ -12,7 +12,7 @@ Yahaira Cortez
 ### Purpose
 Whether it is a sense of nostalgia or simply a new curiosity, learning a musical instrument is a common hobby, and has been for decades. With the creation of the online music learning services, music learning has become much more accessible. However, the accessibility of such services may be hindered by how the technology of the service is utilized. 
 
-The music learning service I will aim to improve for my UX project is GuitarTricks.com. 
+The music learning service I will aim to improve for my UX project is <a href="https://www.guitartricks.com/" target="_blank">GuitarTricks.com</a>.
 The Guitar Tricks site is an online music learning resource for learning guitar, and whose mission is to provide guitar learning services for all ages and all skill levels. With my UX project, 
 I intend to enhance site navigation and increase user accessibility while ensuring the high quality of the musical teaching or music learning content. In creating the redesign of GuitarTricks, the site’s mission and the needs of their audience, such as technological gaps, will be taken into consideration. For the DH110 course,  my project will especially consider the needs of those who meet the following profile: Middle-Aged (40-60 years old), Employed, Males, Some Education. 
 
@@ -28,5 +28,6 @@ After conducting usability testing and research (mentioned below), I decided to 
     - Question Forum/Search Bar can be accessed and utilized effectively <br><br>
 
 ## Competitor Analysis 
-
+### Heuristic Evaluation
+To understand how other music learning sites presented and performed, specifically those that were intended to teach musical instruments, I conducted heuritisic analysis on two instrument learning sites: GuitarTricks.com and FlowKey.com.  
 
