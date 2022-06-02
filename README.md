@@ -61,7 +61,7 @@ Overall I felt the interview process did well in providing me with a better unde
 UX StoryTelling allows the designer to "get insight into users, build empathy and reach them emotionally" (<a href="https://www.interaction-design.org/literature/topics/storytelling" target="_blank">cite</a>). Such stories are created from learning who their users are, what the needs of their users are, and how their product intends to meet the users' needs. More specifically, personas, empathy maps, and scenarios are created to visualize potential users and their needs. These stories allow for the designer to gain a deeper psychological understanding of their user. <br><br>
 I found it very interesting and even fun to place myself in the shoes of the users. It greatly influenced my perspective on the design of the product and allowed me to further recognize how users intend to use the product and what may draw them to the product. It is fascinating to consider the efficiency of the product through a more psychological level. 
 
-#### See full Personas + Mind Maps <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment4" target="_blank"> here </a>. <br><br>
+#### See full Personas + Empathy Maps <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment4" target="_blank"> here </a>. <br><br>
 
 ### Wireframing & Low-Fidelity Prototype
 <img src="Assignment5/images/Task1.png" width= "350px" height="200px"> <br>
