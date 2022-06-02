@@ -1,7 +1,5 @@
-# DH110
+# Guitar101: Online Site for Learning Guitar at any Age and Skill Level
 
-## Yahaira Cortez 
-
-Project Workspace for Digital Humanities 110: User Interface and Design 
-
-Have not finalized project idea but am looking to work with music learning services that are similar to Yousician. 
+DH 110: User Experience Design <br>
+Yahaira Cortez
+<br> 
