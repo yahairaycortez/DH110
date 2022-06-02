@@ -93,7 +93,7 @@ In using the high-fidelity prototype the user should be able to accomplish the s
  - Check Lesson Progress
  - Access and Search through Question Forum
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3TI2Ngv9DapGHKVuJVa7Su%2FDH110---A06%3Fnode-id%3D67%253A1358%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D67%253A1358%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3TI2Ngv9DapGHKVuJVa7Su%2FDH110---A06%3Fnode-id%3D67%253A1358%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D67%253A1358" allowfullscreen></iframe>
 
 
 
