@@ -81,8 +81,16 @@ I approached the design with an empahsis on modern interface design and consider
 
 I used Figma to draft and finalize the high-fidelity designs. Because the site is for often used on a computer, I based my frame dimensions for the design off the screen dimensions of the Macbook Pro "14. <br> 
 
-<img src="Assignment6/images/color.png" width= "200px" height="150px"> &nbsp;  <img src="Assignment6/images/shape.png" width= "200px" height="150px"> <br>
+<img src="Assignment6/images/color.png" width= "250px" height="100px"> &nbsp;  <img src="Assignment6/images/shape.png" width= "250px" height="100px"> <br>
 #### See full Interface Design <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment6" target="_blank"> here </a>. <br><br>
+
+### High-Fidelity Prototype
+
+The purpose of the high-fidelity prototype is to test the design and interactive elements of the interface. <br> <br>
+In using the high-fidelity prototype the user should be able to accomplish the same tasks as done in the Usability Test:
+ - Access a lesson
+ - Check Lesson Progress
+ - Access and Search through Question Forum
 
 
 
