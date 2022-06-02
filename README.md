@@ -17,12 +17,15 @@ The Guitar Tricks site is an online music learning resource for learning guitar,
 I intend to enhance site navigation and increase user accessibility while ensuring the high quality of the musical teaching or music learning content. In creating the redesign of GuitarTricks, the site’s mission and the needs of their audience, such as technological gaps, will be taken into consideration. For the DH110 course,  my project will especially consider the needs of those who meet the following profile: Middle-Aged (40-60 years old), Employed, Males, Some Education. 
 
 ### Design Statement 
-<b>Through my UX project, I hope to design a music learning service that is easy to navigate, regardless of technological familiarity with websites, easy to search, and, most importantly, engaging for learners. The design of the website should coincide with the site's mission - accessible to all ages and players of all skill levels. <br>
+<b>Through my UX project, I hope to design a music learning service that is easy to navigate, regardless of technological familiarity with websites, easy to search, and, most importantly, engaging for learners. The design of the website should coincide with the site's mission - accessible to all ages and players of all skill levels. </b> <br>
   
 After conducting usability testing and research (mentioned below), I decided to prioritze certain features of the site in the redesign:
+  - Minimizing Visual Noise
+  - Modernizing Website Interface
   - Key Tasks can be Easily Accomplished, Users can: 
     - Access Lessons
     - Access Lesson Progress
-    - Question Forum/Search Bar can be accessed and utilized effectively 
-  - Minimizing Visual Noise
-  - Modernizing Website Interface
+    - Question Forum/Search Bar can be accessed and utilized effectively <br><br>
+
+## Competitor Analysis 
+
