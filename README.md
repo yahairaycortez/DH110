@@ -54,7 +54,9 @@ In order to best meet the needs of the intended audience of the website, it was 
 
 Overall I felt the interview process did well in providing me with a better understanding of music learning, in general, and how many may approach the process of music learning. I felt I learned much more about the the mind and behavior of the user who is trying to learn guitar through the site. I particularly enjoyed the interview since it was almost as if I was able to enter the mind one who is learning guitar, understand how they came to learn guitar, and in discovering which music learning methods work best for them. I was fortunate in that my participant did especially well in describing every thought or process ongoing inside their mind during their music learning sessions. I enjoyed this portion of the research process and found such research will be greatly beneficial in creating improvements to the GuitarTricks site. <br>
 
-#### See full User Research <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment3" target="_blank"> here </a>. <br><br>
+#### See full User Research <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment3" target="_blank"> here </a>. <br>
+
+### UX StoryTelling
 
 
 
