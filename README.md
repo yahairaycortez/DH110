@@ -86,7 +86,8 @@ I used Figma to draft and finalize the high-fidelity designs. Because the site i
 
 ### High-Fidelity Prototype
 
-The purpose of the high-fidelity prototype is to test the design and interactive elements of the interface. <br> <br>
+To bring my project to life, I created a high-fidelity prototype using Figma. Based on the feedback from the low-fidelity prototype and interface design, I was able to finalize the product design and create a working prototype. <br> <br>
+The purpose of the high-fidelity prototype is to test the design and interactive elements of the interface. <br> 
 In using the high-fidelity prototype the user should be able to accomplish the same tasks as done in the Usability Test:
  - Access a lesson
  - Check Lesson Progress
