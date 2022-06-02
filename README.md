@@ -1,4 +1,4 @@
-# Guitar101: Online Website for Learning Guitar at any Age and Skill Level
+# Guitar101
 
 DH 110: User Experience Design <br>
 Yahaira Cortez
