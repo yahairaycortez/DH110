@@ -22,7 +22,7 @@ I intend to enhance site navigation and increase user accessibility while ensuri
 After conducting usability testing and research (mentioned below), I decided to prioritze certain features of the site in the redesign:
   - <b> Minimizing Visual Noise </b>
   - <b> Modernizing Website Interface </b>
-  - <b> Key Tasks can be Easily Accomplished, Users can: </b>
+  - <b> Ensuring Key Tasks can be Easily Accomplished, Users can: </b>
     - Access Lessons
     - Access Lesson Progress
     - Question Forum/Search Bar can be accessed and utilized effectively <br><br>
@@ -42,8 +42,18 @@ After deciding to focus my UX project on the <a href="https://www.guitartricks.c
 After conducting the Usability Test, I found the extent of the usability issues with the website. In general, I found the issues with the site to be a bit more severe than I had anticipated as I noticed the participant experienced more difficulties with the site. For example, the participant had trouble locating the question forum and finding the ability to exit lesson, which are necessary features to ensure easy and safe navigation of the site. Additionally, because the user was not particularly representative of the targeted population (21-year old male, highly familar with techonology), I find the participant's difficulties with the site may be worse for those who do fall within the targeted audience. (middle-aged males, variety in levels of technological familarity). <br>
 
 #### Testing Materials 
-<img src="images/usabilitytesting.png" width= "300px" height="200px"> 
+<img src="images/usabilitytesting.png" width= "300px" height="200px"> <br>
 <b>UT Survey</b>: <a href="https://forms.gle/YARwtsbDFNsZduvU6" target="_blank">UT Survey</a><br>
 <b>UT Video</b>: <a href="https://www.dropbox.com/s/861w5hqxviyjiyn/DH110-A02-UsabilityTest%20.mp4?dl=0" target="_blank">UT Video</a><br>
 
 #### See full Usability Testing <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment2" target="_blank"> here </a>. <br><br>
+
+### User Research 
+In order to best meet the needs of the intended audience of the website, it was necessary to conduct user research on users who are expected to utilize the site. A 24 year-old male, intermediate guitar player, offered to provide insight into their guitar learning process, which includes the resources/tools they used to initally learn guitar and to strengthen their current skillset. <br>
+
+
+
+Both research methods did well in providing me with a better understanding of music learning, in general, and how many approach the process of music learning. Overall, I felt these approaches to research were much more natural, in comparison to the prior usability test. Additonally, I felt I learned much more about the the mind and behavior of the user than in comparison to the prior test. I particularly enjoyed the interview since it was almost as if I was able to enter the mind one who is learning guitar, understand how they came to learn guitar, and in discovering which music learning methods work best for them. Because the interview environment was comfortable, I was able to ask more in-depth questions, and I am fortunate that my participant was very elaborate in their responses. The participant did especially well in describing every thought or process ongoing inside their mind during their music learning sessions. I enjoyed this portion of the research process and found such research will be greatly beneficial in creating improvements to the GuitarTricks site.
+
+
+
