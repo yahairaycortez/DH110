@@ -84,6 +84,20 @@ I used Figma to draft and finalize the high-fidelity designs. Because the site i
 <img src="Assignment6/images/color.png" width= "250px" height="200px"> &nbsp;  <img src="Assignment6/images/shape.png" width= "250px" height="200px"> <br>
 #### See full Interface Design <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment6" target="_blank"> here </a>. <br><br>
 
+### Evaluation & Revision History 
+After receiving user feedback from the inital high-fidelity prototype, the interface was updated to better meet the needs and concerns that were mentioned. <br>
+The following are examples of changes made according to the user feedback:
+- <i> "You can make the space more reasonable by proportional to the screen dimension." (Suggested layout with 12x12, 20px gutter)</i> <br><br> 
+<img src="images/Spacing_Change.png" width=800> <br>
+  - Interface was changed to better fit within the 12x12, 20px gutter layout <br><br> 
+- <i> "Maybe better to make the images darker and white text" 
+-  "Overall, the drop-shadow effect of the text can make the website look old-style."
+-  "And for the realistic situation, have specific lesson names" </i> <br><br> 
+<img src="images/Text_Image_Change.png" width=800> <br>
+  - Text: was changed to appear more modern, used more realistic lesson titles, and was changed to lighter color when on top of image.
+  - Images: were darkened to better within the modern-style of the interface, and to create greater contrast with text. 
+<br> <br>
+
 ### High-Fidelity Prototype
 
 To bring my project to life, I created a high-fidelity prototype using Figma. Based on the feedback from the low-fidelity prototype and interface design, I was able to finalize the product design and create a working prototype. <br> <br>
@@ -96,6 +110,9 @@ In using the high-fidelity prototype the user should be able to accomplish the s
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="700" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3TI2Ngv9DapGHKVuJVa7Su%2FDH110---A06%3Fnode-id%3D67%253A1358%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D67%253A1358" allowfullscreen></iframe> <br>
 
 #### See full High-Fidelity Prototype Documentation <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment7" target="_blank"> here </a>. <br><br>
+
+
+
 
 
 
