@@ -57,9 +57,20 @@ Overall I felt the interview process did well in providing me with a better unde
 #### See full User Research <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment3" target="_blank"> here </a>. <br>
 
 ### UX StoryTelling
-<img src="Assignment4/images/raul-persona.png" width= "200px" height="100px"> &nbsp; <img src="Assignment4/images/raul-map.png" width= "200px" height="100px"> <br> <br>
+<img src="Assignment4/images/raul-persona.png" width= "200px" height="100px"> &nbsp; <img src="Assignment4/images/raul-map.png" width= "150px" height="100px"> <br> <br>
 UX StoryTelling allows the designer to "get insight into users, build empathy and reach them emotionally" (<a href="https://www.interaction-design.org/literature/topics/storytelling" target="_blank">cite</a>). Such stories are created from learning who their users are, what the needs of their users are, and how their product intends to meet the users' needs. More specifically, personas, empathy maps, and scenarios are created to visualize potential users and their needs. These stories allow for the designer to gain a deeper psychological understanding of their user. <br>
 I found it very interesting and even fun to place myself in the shoes of the users. It greatly influenced my perspective on the design of the product and allowed me to further recognize how users intend to use the product and what may draw them to the product. It is fascinating to consider the efficiency of the product through a more psychological level. 
 
 #### See full Personas + Mind Maps <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment4" target="_blank"> here </a>. <br>
+
+### Wireframing & Low-Fidelity Prototype
+<img src="Assignment5/images/Task1.png" width= "350px" height="200px"> <br> <br>
+
+The purpose of the low-fidelity prototype is a method of testing the product design through outlining the flow and navigation of the product. Low-fidelity testing checks functionality rather than the visual appearance of the product. Having users test the low-fidelity protype also allows the designer to ensure the usability and efficency of the product without considering other visual elements of the product. <br> <br>
+The low-fidelity prototype will be based on the GuitarTricks website. Using prior user research, the site will be redesigned to better meet the needs of its intended users. The inital step being the low-fidelity protoype where the navigation/usability changes will be applied and tested. <br>
+
+The low-fidelity protype will test the proposed navigation and interface elements of the site since such components proved to be especially difficult for users when interacting with the product.
+
+
+
 
