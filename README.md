@@ -77,11 +77,12 @@ The low-fidelity protype will test the proposed navigation and interface element
 <img src="Assignment6/images/style1.png" width= "350px" height="200px"> <br> 
 
 The purpose of the interface design is to work towards finalizing the product design by converting low-fidelity designs to high-fidelity. The high-fidelity designs begin to consider the visual and interactive components of the product design. <br><br>
-I approached the design with an empahsis on modern interface design and consideration for the target audience, middle-aged males, musicians or those seeking to learn music. For the high-fidelity design, I drew inspiration from the original Guitar Tricks site as well as from FlowKey, another online music learning resource.<br>
+I approached the design with an empahsis on modern interface design and consideration for the target audience, middle-aged males, musicians or those seeking to learn music. For the high-fidelity design, I drew inspiration from the original <a href="https://www.guitartricks.com/home.php" target="_blank">Guitar Tricks</a> site as well as from <a href="https://app.flowkey.com/songs" target="_blank">FlowKey</a>, another online music learning resource. <br>
 
 I used Figma to draft and finalize the high-fidelity designs. Because the site is for often used on a computer, I based my frame dimensions for the design off the screen dimensions of the Macbook Pro "14. <br> 
 
-<img src="Assignment6/images/color.png" width= "200px" height="100px"> &nbsp;  <img src="Assignment6/images/shape.png" width= "200px" height="100px"> <br> <br>
+<img src="Assignment6/images/color.png" width= "200px" height="100px"> &nbsp;  <img src="Assignment6/images/shape.png" width= "200px" height="100px"> <br>
+#### See full Interface Design <a href="https://github.com/yahairaycortez/DH110/tree/main/Assignment6" target="_blank"> here </a>. <br><br>
 
 
 
