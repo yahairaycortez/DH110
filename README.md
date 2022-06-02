@@ -114,6 +114,8 @@ In using the high-fidelity prototype the user should be able to accomplish the s
 ### Guitar101 Pitch
 
 ### Conclusion
+I found the best way to truly learn about the UX Design process was to be apart of it. I have always been interested in UX Design but to an extent had no idea what the design process entailed. I'm sure many can agree that the process is full of feedback and prioritization for the user. For those reasons I would consider the design process to be exciting, yet quite demanding. I particulary enjoyed the interface design aspect of the process as it not only allowed for my creativity to flourish but it felt I had power in creating something that could be very benefical to others. <br>
+Overall, the design process proved to be quite lengthy but very rewarding in the end. I hope to continue creating projects or being more involved within the field. 
 
 
 
