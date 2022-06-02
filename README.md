@@ -15,3 +15,14 @@ Whether it is a sense of nostalgia or simply a new curiosity, learning a musical
 The music learning service I will aim to improve for my UX project is GuitarTricks.com. 
 The Guitar Tricks site is an online music learning resource for learning guitar, and whose mission is to provide guitar learning services for all ages and all skill levels. With my UX project, 
 I intend to enhance site navigation and increase user accessibility while ensuring the high quality of the musical teaching or music learning content. In creating the redesign of GuitarTricks, the site’s mission and the needs of their audience, such as technological gaps, will be taken into consideration. For the DH110 course,  my project will especially consider the needs of those who meet the following profile: Middle-Aged (40-60 years old), Employed, Males, Some Education. 
+
+### Design Statement 
+<b>Through my UX project, I hope to design a music learning service that is easy to navigate, regardless of technological familiarity with websites, easy to search, and, most importantly, engaging for learners. The design of the website should coincide with the site's mission - accessible to all ages and players of all skill levels. <br>
+  
+After conducting usability testing and research (mentioned below), I decided to prioritze certain features of the site in the redesign:
+  - Key Tasks can be Easily Accomplished, Users can: 
+    - Access Lessons
+    - Access Lesson Progress
+    - Question Forum/Search Bar can be accessed and utilized effectively 
+  - Minimizing Visual Noise
+  - Modernizing Website Interface
